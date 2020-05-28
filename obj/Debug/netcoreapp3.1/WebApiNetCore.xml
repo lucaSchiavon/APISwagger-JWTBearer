@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiNetCore</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiNetCore.Controllers.TodoItemsController.PostTodoItem(WebApiNetCore.Modelli.TodoItem)">
+            <summary>
+            Questa API crea un nuovo todoitem.
+            </summary>
+            <param name="todoItem">qui andrebbe la descrizione su come passare il parametro</param>
+            <returns>qui la descrizione del valore di ritorno eventuale</returns>
+        </member>
+    </members>
+</doc>
